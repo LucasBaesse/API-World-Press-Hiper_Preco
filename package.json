@@ -1,0 +1,31 @@
+{
+  "name": "api-world-press-hiper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasBaesse/API-World-Press-Hiper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasBaesse/API-World-Press-Hiper/issues"
+  },
+  "homepage": "https://github.com/LucasBaesse/API-World-Press-Hiper#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "config": "^3.3.6",
+    "consign": "^0.1.6",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "node-cron": "^3.0.0",
+    "path": "^0.12.7",
+    "pm2": "^4.5.6"
+  }
+}

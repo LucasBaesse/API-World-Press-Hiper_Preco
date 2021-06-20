@@ -1,2 +1,2 @@
-# API-World-Press-Hiper_Preco
-API com atualização de preço
+# API-World-Press-Hiper
+A requisição que será usada para coletar a quantidade em estoque será a "/api/v1/stock". Essa requisição deverá vir junto com o código de barras do produto, dessa forma iremos fazer uma requisição para coletar todos os produtos e depois iremos retornar o objeto com as informações do produto, entre elas a quantidade em estoque.
